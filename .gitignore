@@ -1,0 +1,20 @@
+# Node
+starter/frontend/node_modules/
+starter/frontend/build/
+
+# Python
+starter/backend/__pycache__/
+starter/backend/.pytest_cache/
+starter/backend/.coverage
+starter/backend/.venv/
+
+# Terraform
+setup/terraform/.terraform/
+setup/terraform/*.tfstate*
+setup/terraform/crash.log
+setup/terraform/crash.*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
